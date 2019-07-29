@@ -1,0 +1,32 @@
+
+body {
+    background-color: aliceblue
+}
+
+/* .container {
+    width: 880px;
+	margin: 0 auto;
+} */
+
+button {
+    border-radius: 8px;
+    width: 130px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 14rem;
+    padding: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    
+}
+
+button:hover {
+    /*======= create a background property and set it to white.  Then create a color property and set it's value to pink. */
+      background-color: rgb(113, 77, 245);
+      color: white;
+      /* animation: pulse 1s infinite; */
+    }
+
+
